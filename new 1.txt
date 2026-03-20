@@ -1,0 +1,12 @@
+<i class="fa-solid fa-magnifying-glass"></i>
+<i class="fa-solid fa-cart-shopping"></i>
+<i class="fa-solid fa-location-dot"></i>
+<i class="fa-solid fa-globe"></i>
+<i class="fa-solid fa-indian-rupee-sign"></i>
+<i class="fa-solid fa-dollar-sign"></i>
+<i class="fa-solid fa-bars"></i>
+
+
+
+
+
